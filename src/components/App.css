@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,900');
+@import url('<link href="https://fonts.googleapis.com/css?family=Prata" rel="stylesheet">');
+@font-face { 
+  font-family: circular;
+  src: url(/assets/fonts/CircularStd-Black.woff);
+  font-weight: normal;
+}   
+@font-face {
+  font-family: circular;
+  src: url(/assets/fonts/CircularStd-Bold.woff);
+  font-weight: bold;
+}        
+@font-face {
+  font-family: circularM;
+  src: url(/assets/fonts/CircularStd-Medium.woff);
+  font-weight: normal;
+}
+
+
+
+
+
+.tbhiglight {
+  background: yellow;
+  width: fit-content;
+}
+
+#map{
+  height:900px;
+width: 100vw;
+padding-bottom:50px
+}
+
+.ChartOne{
+  transform: scale(0.9);
+  position: relative;
+  left: 18vw;
+}
+
+.App {
+  padding-bottom: 200px;
+}
+
+.header {
+  text-align: center;
+  color: #d8e7f7;
+  font-weight: 900;
+}
+
+.hp {
+  text-align: center;
+  color: #d8e7f7;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding-bottom: 30px;
+  padding-top: 6px;
+}
+
+.loadtxt {
+  margin-top: 300px;
+  font-size: 18px;
+  color: #798896;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.loadtxt2 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 15px;
+  color: #798896;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: 1px;
+}
